@@ -1,0 +1,82 @@
+
+
+
+#Intro .jumbotron {
+    padding-top:50px;
+}
+
+/*Carousel Styles */
+.carousel_header {
+    font-family:"Impact";
+    color:white;
+}
+#headerJumboTron {
+    position:relative;
+   margin-top:
+    margin-bottom: 0%;
+    padding-bottom:10px;
+}
+
+.container > #carouselNowShowing.carousel.slide {
+    position:relative;
+    top:15;
+    left:10%;
+    width:80%;
+  height:70vh;
+  background-color:black;
+}
+
+.carousel-indicators {
+    position: relative;
+    bottom: -15px;
+
+}
+
+.carousel-indicators > ol, li {
+    position:relative;
+}
+.carousel-inner { 
+    position:relative;
+}
+.carousel-item {
+    position:relative;
+    width:100%;
+}
+
+#facility {
+    position:relative;
+    background-color:#04a4bd;
+}
+
+#facility > h2{
+    text-align:center;
+    font-weight:bold;
+    letter-spacing: .25rem;
+    color:white;
+    padding-top:2%;
+}
+  .accomodations_list ul {
+      list-style-position: outside;
+  }
+
+#ShowTimes_WithCards {
+    position:relative;
+    top:0;
+    padding:3%;
+
+    background-color: gray;
+}  
+  
+#reel-time {
+    color:white;
+    border:5px dashed white;
+padding:1.5%;
+background-color:black;
+}
+
+.movieBUTTON {
+    font-size:1.25em;
+    text-align:center;
+
+
+}
